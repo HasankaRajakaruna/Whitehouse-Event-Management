@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852021462373",
+    "project_id": "whitehouse-68882",
+    "storage_bucket": "whitehouse-68882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852021462373:android:a8e5691627f0e38c7e0d8c",
+        "android_client_info": {
+          "package_name": "com.example.whitehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852021462373-br2i9vecf48psldqe0gn20505jg06fot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDEJ_FnyhPy0QBvmmXpXTmOB48Bwj8x9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852021462373-br2i9vecf48psldqe0gn20505jg06fot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
